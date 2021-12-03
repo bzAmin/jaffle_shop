@@ -5,3 +5,7 @@ models:
   - name: workflows
     description: This table has basic information about orders, as well as some derived facts based on payments
 
+sources:
+  - name: Demo
+    tables:
+      - name: _airbyte_raw_workflows
