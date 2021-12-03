@@ -2,6 +2,6 @@ version: 2
 
 models:
 
-  - name: orders
+  - name: workflows
     description: This table has basic information about orders, as well as some derived facts based on payments
 
